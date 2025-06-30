@@ -24,9 +24,7 @@ cd doctor-dashboard/project
 2. Install Dependencies
 npm install
 3. Start the API Server (json-server)
-npm run api
-# or
-npm run server
+npm run api / npm run server
 This will serve mock appointment data from src/data/appointments.json on:
 http://localhost:3001/appointments
 4. Start the Development Server
