@@ -1,8 +1,8 @@
 Technologies Used:-
-React (with Hooks)
-Vite (fast bundler)
-Redux Toolkit (for state management)
-Tailwind CSS (for utility-first styling)
+React (with Hooks),
+Vite (fast bundler),
+Redux Toolkit (for state management),
+Tailwind CSS (for utility-first styling),
 json-server (for local API)
 
 Doctor Dashboard UI with API Integration
